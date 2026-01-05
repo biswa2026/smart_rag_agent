@@ -31,3 +31,5 @@ pypika
 
 # Binary-safe pin (macOS)
 pyarrow==14.0.2
+
+#git token : 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
