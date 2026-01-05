@@ -1,0 +1,33 @@
+# UI
+streamlit
+
+# HTTP & scraping
+requests
+httpx
+beautifulsoup4
+
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+
+# OpenAI + Agents
+openai
+openai-agents
+tiktoken
+
+# Vector DB
+chromadb
+
+# Embeddings
+sentence-transformers
+
+# Utilities
+nest_asyncio
+python-dotenv
+numpy
+pypika
+
+# Binary-safe pin (macOS)
+pyarrow==14.0.2
